@@ -24,5 +24,5 @@ Esta aplicación permite a los usuarios crear listas de amigos y realizar sorteo
 
 - **HTML5**
 - **CSS3**
-- **JavaScript*
+- **JavaScript**
 
